@@ -4,7 +4,7 @@
     "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch",
-        "postinstall": "gulp default"
+        "prestart": "gulp default"
     },
     "description": "An HTML landing page template built with Bootstrap",
     "keywords": [
