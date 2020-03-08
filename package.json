@@ -3,7 +3,7 @@
     "name": "startbootstrap-landing-page",
     "version": "5.0.7",
     "scripts": {
-        "start": "node_modules/.bin/gulp"
+        "prestart": "node_modules/.bin/gulp"
     },
     "description": "An HTML landing page template built with Bootstrap",
     "keywords": [
